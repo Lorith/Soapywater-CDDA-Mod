@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "soapywater",
+    "name": "Soapy Water",
+    "authors": [ "Shard" ],
+    "description": "Make soapy water to clean out bite wounds.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
